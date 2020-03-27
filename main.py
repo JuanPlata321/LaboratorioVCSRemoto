@@ -34,4 +34,4 @@ else:
         print("La solucion de la ecuación cuadrática negativa es: "+ str((-b-(d))/(2*a)))
 
     if d==0:
-        print("X1 y X2 son iguales y corresponden a -b/2a: ")
+        print("X1 y X2 son iguales y corresponden a -b/2a")
